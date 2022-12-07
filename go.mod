@@ -10,7 +10,7 @@ require (
 	github.com/Masterminds/squirrel v1.5.0
 	github.com/Masterminds/vcs v1.13.1
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535
-	github.com/containerd/containerd v1.5.4
+	github.com/containerd/containerd v1.5.16
 	github.com/cyphar/filepath-securejoin v0.2.2
 	github.com/distribution/distribution/v3 v3.0.0-20210804104954-38ab4c606ee3
 	github.com/docker/docker v17.12.0-ce-rc1.0.20200618181300-9dc6525e6118+incompatible
@@ -22,7 +22,7 @@ require (
 	github.com/lib/pq v1.10.0
 	github.com/mattn/go-shellwords v1.0.11
 	github.com/mitchellh/copystructure v1.1.1
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
 	github.com/pkg/errors v0.9.1
 	github.com/rubenv/sql-migrate v0.0.0-20210614095031-55d5740dbbcc
